@@ -212,4 +212,10 @@ clase_pred
 - Bootstrap 5
 - Bootstrap Icons
 
+## 9 🎥 Video de demostración
+
+En el siguiente video se muestra el funcionamiento de la aplicación:
+
+[Ver video de demostración en YouTube](https://youtu.be/GCfedvqRWCg)
+
 
