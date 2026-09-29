@@ -218,4 +218,9 @@ En el siguiente video se muestra el funcionamiento de la aplicación:
 
 [Ver video de demostración en YouTube](https://youtu.be/GCfedvqRWCg)
 
+## 10 🌐 Aplicación desplegada
+
+La aplicación se encuentra disponible en Render:
+
+[🚀 Acceder a SolarLab](https://solarlab-ml.onrender.com/)
 
